@@ -1,0 +1,12 @@
+{
+    "name": "danil/vipm1",
+    "require": {
+        "ext-pdo": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Danil\\Vipm1\\": "src/"
+        }
+    }
+}
